@@ -25,7 +25,7 @@ try:
     # df_ocorrencias = df_ocorrencias[df_ocorrencias["ano"].isin([2020,2021,2023,2024,2025])]
     
     # Filtrando por região = Baixada Fluminense
-    df_roubo_veiculo = df_ocorrencias[df_ocorrencias["regiao"] == "Baixada Fluminense"]
+    # df_roubo_veiculo = df_ocorrencias[df_ocorrencias["regiao"] == "Baixada Fluminense"]
     
     
 
